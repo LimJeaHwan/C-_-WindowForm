@@ -1,0 +1,20 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\bin\Debug\B_TextView.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\bin\Debug\B_TextView.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\bin\Debug\B_TextView.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\obj\Debug\B_TextView.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\obj\Debug\B_TextView.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\obj\Debug\B_TextView.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\obj\Debug\B_TextView.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\obj\Debug\B_TextView.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\obj\Debug\B_TextView.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\1주차\B_TextView\B_TextView\obj\Debug\B_TextView.pdb
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\bin\Debug\B_TextView.exe.config
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\bin\Debug\B_TextView.exe
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\bin\Debug\B_TextView.pdb
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\obj\Debug\B_TextView.csprojAssemblyReference.cache
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\obj\Debug\B_TextView.Form1.resources
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\obj\Debug\B_TextView.Properties.Resources.resources
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\obj\Debug\B_TextView.csproj.GenerateResource.cache
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\obj\Debug\B_TextView.csproj.CoreCompileInputs.cache
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\obj\Debug\B_TextView.exe
+C:\WindowsFormProgramming\LimJeaHwan\C-WindowsForm\B_TextView\B_TextView\obj\Debug\B_TextView.pdb

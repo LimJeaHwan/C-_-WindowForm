@@ -1,0 +1,9 @@
+English
+1.Enter the character in TextBox.
+
+2.Click the Enter key or button to print the entered character.
+--------------------------------------------------------------------------------------
+한국어
+1.텍스트 박스에 문자를 입력하시오.
+
+2.입력한 문자를 출력하려면 Enter키 또는 버튼을 클릭하십시오.
