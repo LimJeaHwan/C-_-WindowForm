@@ -1,0 +1,10 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\bin\Debug\B_CBChoice.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\bin\Debug\B_CBChoice.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\bin\Debug\B_CBChoice.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\obj\Debug\B_CBChoice.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\obj\Debug\B_CBChoice.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\obj\Debug\B_CBChoice.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\obj\Debug\B_CBChoice.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\obj\Debug\B_CBChoice.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\obj\Debug\B_CBChoice.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\2주차\B_CBChoice\B_CBChoice\obj\Debug\B_CBChoice.pdb
