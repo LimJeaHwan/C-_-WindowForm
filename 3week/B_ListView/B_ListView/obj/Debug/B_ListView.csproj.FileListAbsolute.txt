@@ -1,0 +1,10 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\bin\Debug\B_ListView.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\bin\Debug\B_ListView.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\bin\Debug\B_ListView.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\obj\Debug\B_ListView.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\obj\Debug\B_ListView.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\obj\Debug\B_ListView.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\obj\Debug\B_ListView.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\obj\Debug\B_ListView.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\obj\Debug\B_ListView.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\3주차\B_ListView\B_ListView\obj\Debug\B_ListView.pdb
