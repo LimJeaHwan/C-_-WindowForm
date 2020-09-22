@@ -1,0 +1,10 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\bin\Debug\B_Timer.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\bin\Debug\B_Timer.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\bin\Debug\B_Timer.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\obj\Debug\B_Timer.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\obj\Debug\B_Timer.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\obj\Debug\B_Timer.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\obj\Debug\B_Timer.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\obj\Debug\B_Timer.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\obj\Debug\B_Timer.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Timer\B_Timer\obj\Debug\B_Timer.pdb

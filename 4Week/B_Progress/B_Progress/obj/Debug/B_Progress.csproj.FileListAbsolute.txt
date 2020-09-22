@@ -1,0 +1,10 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\bin\Debug\B_Progress.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\bin\Debug\B_Progress.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\bin\Debug\B_Progress.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\obj\Debug\B_Progress.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\obj\Debug\B_Progress.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\obj\Debug\B_Progress.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\obj\Debug\B_Progress.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\obj\Debug\B_Progress.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\obj\Debug\B_Progress.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Progress\B_Progress\obj\Debug\B_Progress.pdb

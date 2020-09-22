@@ -1,0 +1,10 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\bin\Debug\B_Image.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\bin\Debug\B_Image.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\bin\Debug\B_Image.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\obj\Debug\B_Image.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\obj\Debug\B_Image.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\obj\Debug\B_Image.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\obj\Debug\B_Image.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\obj\Debug\B_Image.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\obj\Debug\B_Image.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\4주차\B_Image\B_Image\obj\Debug\B_Image.pdb
