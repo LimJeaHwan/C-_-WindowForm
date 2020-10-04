@@ -1,0 +1,10 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\bin\Debug\B_FontControl.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\bin\Debug\B_FontControl.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\bin\Debug\B_FontControl.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\obj\Debug\B_FontControl.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\obj\Debug\B_FontControl.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\obj\Debug\B_FontControl.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\obj\Debug\B_FontControl.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\obj\Debug\B_FontControl.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\obj\Debug\B_FontControl.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FontControl\B_FontControl\obj\Debug\B_FontControl.pdb

@@ -1,0 +1,12 @@
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\bin\Debug\B_FormView.exe.config
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\bin\Debug\B_FormView.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\bin\Debug\B_FormView.pdb
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.csprojAssemblyReference.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.Form1.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.Form2.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.Form3.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.Properties.Resources.resources
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.csproj.GenerateResource.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.exe
+C:\Users\dlawo\OneDrive\바탕 화면\Solution\5주차\B_FormView\B_FormView\obj\Debug\B_FormView.pdb
