@@ -1,0 +1,11 @@
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\bin\Debug\B_TrayMsg.exe.config
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\bin\Debug\B_TrayMsg.exe
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\bin\Debug\B_TrayMsg.pdb
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.csprojAssemblyReference.cache
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.Form1.resources
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.Form2.resources
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.Properties.Resources.resources
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.csproj.GenerateResource.cache
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.csproj.CoreCompileInputs.cache
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.exe
+E:\WindowFormPrograming\6Week\B_TrayMsg\B_TrayMsg\obj\Debug\B_TrayMsg.pdb
