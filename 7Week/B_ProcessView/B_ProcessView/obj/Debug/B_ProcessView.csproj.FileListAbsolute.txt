@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\bin\Debug\B_ProcessView.exe.config
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\bin\Debug\B_ProcessView.exe
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\bin\Debug\B_ProcessView.pdb
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\obj\Debug\B_ProcessView.csprojAssemblyReference.cache
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\obj\Debug\B_ProcessView.Form1.resources
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\obj\Debug\B_ProcessView.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\obj\Debug\B_ProcessView.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\obj\Debug\B_ProcessView.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\obj\Debug\B_ProcessView.exe
+C:\Users\YUHAN\Desktop\Solution\7Week\B_ProcessView\B_ProcessView\obj\Debug\B_ProcessView.pdb
