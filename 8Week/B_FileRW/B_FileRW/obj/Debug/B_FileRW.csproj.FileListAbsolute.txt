@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\bin\Debug\B_FileRW.exe.config
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\bin\Debug\B_FileRW.exe
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\bin\Debug\B_FileRW.pdb
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\obj\Debug\B_FileRW.csprojAssemblyReference.cache
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\obj\Debug\B_FileRW.Form1.resources
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\obj\Debug\B_FileRW.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\obj\Debug\B_FileRW.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\obj\Debug\B_FileRW.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\obj\Debug\B_FileRW.exe
+C:\Users\YUHAN\Desktop\새홀리기\8Week\B_FileRW\B_FileRW\obj\Debug\B_FileRW.pdb
