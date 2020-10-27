@@ -40,7 +40,11 @@ namespace B_FileRW
         private void btnRARead_Click(object sender, EventArgs e)
         {
             if (txtCheck() == false)
+            {
+                MessageBox.Show("읽을 파일이 없습니다.", "에러",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
+            }
             if (File.Exists(this.txtRPath.Text))
             {
                 using (StreamReader sr = new StreamReader(this.txtRPath.Text/*, Encoding.Default*/)) //Encoding.Default is ANSI not write UTF-8
@@ -58,7 +62,11 @@ namespace B_FileRW
         private void btnRLRead_Click(object sender, EventArgs e)
         {
             if (txtCheck() == false)
+            {
+                MessageBox.Show("읽을 파일이 없습니다.", "에러",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
+            }
             this.txtRView.Clear();
             if (File.Exists(this.txtRPath.Text))
             {
