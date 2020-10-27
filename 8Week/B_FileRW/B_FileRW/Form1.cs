@@ -62,7 +62,7 @@ namespace B_FileRW
             this.txtRView.Clear();
             if (File.Exists(this.txtRPath.Text))
             {
-                using (StreamReader sr = new StreamReader(this.txtRPath.Text /*, Encoding.Default*/)) //Encoding.Default is ANSI not write UTF-8
+                using (StreamReader sr = new StreamReader(this.txtRPath.Text /*, Encoding.Default*/)) //Encoding.Default is ANSI not write UTF-8 Using is Memory assignment(할당)
                 {
                     string line = null;
                     while ((line = sr.ReadLine()) != null)
