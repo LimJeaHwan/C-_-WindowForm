@@ -1,0 +1,11 @@
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\bin\Debug\B_Notepad.exe.config
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\bin\Debug\B_Notepad.exe
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\bin\Debug\B_Notepad.pdb
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.csprojAssemblyReference.cache
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.Form1.resources
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.Form2.resources
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.exe
+C:\Users\YUHAN\Desktop\까마귀\9Week\B_Notepad\B_Notepad\obj\Debug\B_Notepad.pdb
