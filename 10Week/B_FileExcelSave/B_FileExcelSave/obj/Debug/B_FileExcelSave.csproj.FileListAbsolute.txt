@@ -1,0 +1,11 @@
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\bin\Debug\B_FileExcelSave.exe.config
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\bin\Debug\B_FileExcelSave.exe
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\bin\Debug\B_FileExcelSave.pdb
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.csprojAssemblyReference.cache
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.csproj.ResolveComReference.cache
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.Form1.resources
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.exe
+C:\Users\YUHAN\Desktop\조롱이\10Week\B_FileExcelSave\B_FileExcelSave\obj\Debug\B_FileExcelSave.pdb
