@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\bin\Debug\B_HumanList.exe.config
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\bin\Debug\B_HumanList.exe
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\bin\Debug\B_HumanList.pdb
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\obj\Debug\B_HumanList.csprojAssemblyReference.cache
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\obj\Debug\B_HumanList.Form1.resources
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\obj\Debug\B_HumanList.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\obj\Debug\B_HumanList.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\obj\Debug\B_HumanList.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\obj\Debug\B_HumanList.exe
+C:\Users\YUHAN\Desktop\찌르레기\11Week\B_HumanList\B_HumanList\obj\Debug\B_HumanList.pdb
